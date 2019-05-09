@@ -1,0 +1,118 @@
+//META{"name":"Custom Theme","description":"An Custom Theme for Discord.","author":"CruXiaLaiM","version":"1.0.0","website":"https://github.com/CruXiaLaiM/CruX"}*//
+
+/* Addons & imports */
+/* Main theme */
+
+/* Addons */
+
+
+/* Main wallpaper. */
+#app-mount .mention-1f5kbO:hover {
+    background: var(--mainBG)
+#app-mount .inner-1JeGVc .modal-3HD5ck .searchBar-2_Yu-C .searchBarInner-1_Tg2R {
+    background: var(--mainBG);border: 1px solid var(--borderColour);
+    border-radius: var(--allRound);
+#app-mount .inner-1JeGVc .modal-3HD5ck .input-cIJ7To {background-color: var(--mainBG);border-color: var(--borderColour);color: #ddd}
+#app-mount .modal-3HD5ck .footer-2yfCgX {background-color:var(--mainBG);border-radius:0 0 var(--allRound) var(--allRound)}
+#app-mount .regionSelectModal-12e-57 {
+    background-color:var(--mainBG2);
+    box-shadow:0 0 0 1px var(--borderColour);
+    border-radius:var(--allRound)
+}
+#app-mount .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {
+    background-color:var(--mainBG);
+    border:1px solid var(--borderColour);
+    border-radius:var(--allRound)
+}
+#app-mount .action-1lSjCi {
+    background: var(--mainBG);
+    border: 1px solid var(--borderColour);
+    box-shadow:none;border-radius:var(--allRound)
+}
+#app-mount .channels-Ie2l6A .channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {
+    background-color:var(--mainBG);
+    box-shadow:none
+}
+#app-mount .channels-Ie2l6A .container-1UB9sr {
+    background: var(--mainBG);
+    border-bottom: 1px solid var(--borderColour);
+    padding:2px;
+}
+#app-mount .container-3ISnnM .searchBar-1MOL6S {
+    background-color: var(--mainBG);border-radius:var(--allRound);
+}
+#app-mount #bda-qem button.active {background-color: var(--mainBG);opacity:.9;border:none;color:var(--mainAccent)}
+#app-mount .emojiPicker-3m1S-j .stickyHeader-1SS0JU {
+    background: var(--mainBG);text-align:center;font-size:1em;color:#fff;height:20px;
+    line-height:22px;border-radius:var(--allRound);width:93%;padding:0
+}
+#app-mount .emojiPicker-3m1S-j .category-2U57w6 {
+    background: var(--mainBG);text-align:center;font-size:1em;color:#fff;
+    height:20px;line-height:22px;width:95%;border-radius:var(--allRound);
+}
+#app-mount .sidebar-1-SQro {background:var(--mainBG)}
+#app-mount .autocompleteHeaderBackground-30T70q {background-color: var(--mainBG)}
+#app-mount .row-rrHHJU.selected-1pIgLL {
+    background: var(--mainBG);
+}
+#app-mount .userPopout-3XzG_A .headerNormal-T_seeN {background: var(--mainBG)}
+#app-mount .userPopout-3XzG_A .quickMessage-1yeL4E {
+    background-color: var(--mainBG);
+    border-color: var(--borderColour);
+    border-radius:var(--allRound);
+    color: #ddd;
+}
+#app-mount .root-SR8cQa .topSectionNormal-2-vo2m {background-color: var(--mainBG)}
+#app-mount .root-SR8cQa .lookInverted-2D7oAl.colorBrand-3pXr91:hover {background-color:var(--mainBG)}
+#app-mount .root-SR8cQa .connectedAccount-36nQx7:hover {
+    background-color:var(--mainBG)
+}
+#app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA {
+    background:var(--mainBG);border: none;margin:2px;box-shadow:none;border-radius:var(--allRound)
+}
+#app-mount .activityFeed-1C0EmJ .outer-2IVh5n {background-color: var(--mainBG)}
+#app-mount .gameLibrary-TTDw4Y .lookFilled-1Gx00P.colorGreen-29iAKY {background:var(--mainBG);border:1px solid var(--borderColour);border-radius:var(--allRound)}
+#app-mount .container-jGk-CT .footer-3J5oP4 {background-color: var(--mainBG)}
+#app-mount .applicationStore-1pNvnv .tile-QA_yMc:hover {background-color:var(--mainBG);box-shadow:0 0 5px #0009}
+#app-mount .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    background:var(--mainBG);border:1px solid var(--borderColour);
+    border-radius:var(--allRound)
+}
+#app-mount .popout-2sKjHu {background: var(--mainBG);border-color: var(--borderColour);box-shadow:none}
+#app-mount .quickswitcher-3JagVE {
+    background-color: var(--mainBG);box-shadow:none;border:1px solid var(--borderColour);
+    color: #ddd;border-radius:var(--allRound)
+}
+#app-mount .modal-3HD5ck .searchBar-2_Yu-C .searchBarInner-1_Tg2R {background-color:var(--mainBG);border-radius:var(--allRound);border:none}
+#app-mount .modal-3HD5ck .lookFilled-1Gx00P.colorBrand-3pXr91 {background-color:var(--mainBG);border-radius:var(--allRound);border:1px solid var(--borderColour)}
+#app-mount .paginator-166-09, #app-mount .hoverablePayment-Yc6mK7:hover {background:var(--mainBG);background-color:var(--mainBG)}
+#app-mount .cardPrimaryOutline-29Ujqw:hover {
+    background-color: var(--mainBG)
+}
+#app-mount .pageButtonNext-V2kUq0, #app-mount .pageButtonPrev-1Y-47D  {
+    background: var(--mainBG);border-radius:var(--allRound);
+    border: 1px solid var(--borderColour);border-color:var(--borderColour)
+}
+#app-mount .cardPrimaryEditable-3KtE4g:hover {background-color:var(--mainBG)}
+#app-mount .messagesPopoutWrap-1MQ1bW .footer-1kmXd4 {background:var(--mainBG)}
+#app-mount .messagesPopoutWrap-1MQ1bW .messageGroupWrapper-o-Zw7G {background: var(--mainBG);border:1px solid var(--borderColour);border-radius:var(--allRound)}
+.bd-modal .bd-modalInner {
+    background: var(--mainBG);
+    border: 1px solid var(--borderColour);
+    border-radius:var(--allRound)
+}
+.bd-modal .bd-dropdown .bd-dropdownOptions {background-color: var(--mainBG)}
+.bd-tooltip,
+.bd-popover {
+    background-color: var(--mainBG);
+    color: #fff;
+    border: 1px solid var(--borderColour)
+}
+
+.bd-sidebarView .bd-sidebarRegion {
+    background: var(--mainBG);border:1px solid;
+    border-color:var(--borderColour) var(--borderColour) var(--borderColour) transparent
+}
+
+
+/* Custom CSS. */
